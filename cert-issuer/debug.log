@@ -1,0 +1,53 @@
+2018-06-05 07:19:47 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018-06-05 07:19:47 Bitcoin version v0.13.2.0-g0d71914
+2018-06-05 07:19:47 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2018-06-05 07:19:47 Default data directory /home/bitcoin/.bitcoin
+2018-06-05 07:19:47 Using data directory /home/bitcoin/.bitcoin
+2018-06-05 07:19:47 Using config file /home/bitcoin/.bitcoin/bitcoin.conf
+2018-06-05 07:19:47 Using at most 125 connections (1048576 file descriptors available)
+2018-06-05 07:19:47 Using 0 threads for script verification
+2018-06-05 07:19:47 Binding RPC on address ::1 port 8332 failed.
+2018-06-05 07:19:47 HTTP: creating work queue of depth 16
+2018-06-05 07:19:47 No rpcpassword set - using random cookie authentication
+2018-06-05 07:19:47 scheduler thread start
+2018-06-05 07:19:47 Generated RPC authentication cookie /home/bitcoin/.bitcoin/.cookie
+2018-06-05 07:19:47 HTTP: starting 4 worker threads
+2018-06-05 07:19:47 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2018-06-05 07:19:47 Using wallet wallet.dat
+2018-06-05 07:19:47 init message: Verifying wallet...
+2018-06-05 07:19:47 CDBEnv::Open: LogDir=/home/bitcoin/.bitcoin/database ErrorFile=/home/bitcoin/.bitcoin/db.log
+2018-06-05 07:19:47 Bound to [::]:8333
+2018-06-05 07:19:47 Bound to 0.0.0.0:8333
+2018-06-05 07:19:47 Cache configuration:
+2018-06-05 07:19:47 * Using 2.0MiB for block index database
+2018-06-05 07:19:47 * Using 8.0MiB for chain state database
+2018-06-05 07:19:47 * Using 290.0MiB for in-memory UTXO set
+2018-06-05 07:19:47 init message: Loading block index...
+2018-06-05 07:19:47 Opening LevelDB in /home/bitcoin/.bitcoin/blocks/index
+2018-06-05 07:19:47 IO error: /home/bitcoin/.bitcoin/blocks/index: Invalid argument
+2018-06-05 07:19:47 : Error opening block database.
+Please restart with -reindex or -reindex-chainstate to recover.
+2018-06-05 07:19:47 Aborted block database rebuild. Exiting.
+2018-06-05 07:19:47 scheduler thread interrupt
+2018-06-05 07:19:47 Shutdown: In progress...
+2018-06-05 07:19:47 StopNode()
+2018-06-05 07:19:47 Shutdown: done
